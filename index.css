@@ -1,0 +1,28 @@
+/* This is a stylesheet for index.html */
+
+* {
+	background-color: #66ccff;
+}
+
+html {
+	background-color: #66ccff;
+}
+
+.links {
+	float: center;
+	width: 20px;
+	height: 20px;
+	margin: ;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: green;
+
+}
+
+head {
+	background-color: green;
+}
+
+body {
+	background-color: lightgreen;
+}
