@@ -1,0 +1,19 @@
+/* Stylesheet for bio.html */
+
+body {
+	font-family: "Sans-Serif";
+	color: black;
+	background-color:lightgreen;
+
+}
+
+h1 {
+	text-align: center;
+	background-color: green;
+	font-size: 65px;
+}
+
+p {
+	text-align: left;
+	font-size: 30px;
+}
