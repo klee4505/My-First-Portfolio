@@ -20,7 +20,7 @@ p {
 
 .name {
 	font-family: "Comic Sans";
-	font-style: underline;
+	text-decoration: underline;
 }
 
 .jobs {
