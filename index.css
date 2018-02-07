@@ -1,5 +1,11 @@
 /* This is a stylesheet for index.html */
 
+
+head {
+	text-align: center;
+}
+
+
 h1 {
 	background-color: #80dfff;
 	font-family: Trebuchet MS;
@@ -8,6 +14,7 @@ h1 {
 body {
 	background-color: #80dfff;
 	font-family: Trebuchet MS;
+	text-align: center;
 }
 
 .links {
