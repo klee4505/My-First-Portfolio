@@ -1,0 +1,12 @@
+/* Stylesheet for resume.html */
+
+body {
+	font-family: "garamond";
+	color: black;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 65px;
+}
