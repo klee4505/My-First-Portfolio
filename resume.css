@@ -3,10 +3,31 @@
 body {
 	font-family: "garamond";
 	color: black;
+	background-color:lightgreen;
 
 }
 
 h1 {
 	text-align: center;
+	background-color: green;
 	font-size: 65px;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+}
+
+.name {
+	font-family: "Comic Sans";
+	font-style: underline;
+}
+
+.jobs {
+	font-variant: small-caps;
+}
+
+.date {
+	font-style: italic;
+	font-size: 20px;
 }
